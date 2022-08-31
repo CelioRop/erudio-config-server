@@ -8,5 +8,5 @@ management:
         include:
         - '*' 
 greeting-service:
-  greeting: "Heloo"
+  greeting: "Hello"
   default-value: "Word"
